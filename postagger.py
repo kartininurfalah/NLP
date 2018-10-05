@@ -29,10 +29,10 @@ dataTrain = dataKorpusAsli[0:10]
 dataKorpusTrain=dataKorpusAsli[0:1000]        
 dataKorpusTest = dataKorpusAsli[1000:1020]
 
-korpusTrainConcate = []
-print(dataKorpusTrain[999][0])
-for i in range(999):
-    print(dataKorpusTrain[i][0])
+# korpusTrainConcate = []
+# print(dataKorpusTrain[999][0])
+# for i in range(999):
+#     print(dataKorpusTrain[i][0])
     # print(i)
     # for j in (len(i)):
     #     print(j)
